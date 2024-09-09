@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=AD1_LOC_GND_C Pin=T3-2
+Removed Pin From Net: NetName=AD1_LOC_GND_C Pin=T3-5
+Removed Pin From Net: NetName=AD1_LOC_GND_D Pin=T4-2
+Removed Pin From Net: NetName=AD1_LOC_GND_D Pin=T4-5
+Removed Pin From Net: NetName=TXX1A_N Pin=T5-3
+Removed Pin From Net: NetName=TXX1A_N Pin=T5-4
+Removed Pin From Net: NetName=TXX1A_N Pin=T6-3
+Removed Pin From Net: NetName=TXX1A_N Pin=T6-4
+Removed Pin From Net: NetName=TXX1A_N Pin=U2-A7
+Removed Pin From Net: NetName=TXX1A_N Pin=U2-A8
+Removed Pin From Net: NetName=TXX1A_N Pin=U2-M7
+Removed Pin From Net: NetName=TXX1A_N Pin=U2-M8
+Removed Pin From Net: NetName=AD1_LOC_GND_C Pin=XS3-2
+Removed Pin From Net: NetName=AD1_LOC_GND_C Pin=XS3-3
+Removed Pin From Net: NetName=AD1_LOC_GND_C Pin=XS3-4
+Removed Pin From Net: NetName=AD1_LOC_GND_C Pin=XS3-5
+Removed Pin From Net: NetName=AD1_LOC_GND_D Pin=XS4-2
+Removed Pin From Net: NetName=AD1_LOC_GND_D Pin=XS4-3
+Removed Pin From Net: NetName=AD1_LOC_GND_D Pin=XS4-4
+Removed Pin From Net: NetName=AD1_LOC_GND_D Pin=XS4-5
+Added Component: Designator=T7(NCS2-33+)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T8(NCS2-33+)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS8(SMA5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB Footprint"; Value = "SMP-JHD4A-F"; VariantName = "[No Variations]"
+Added Component: Designator=XS9(SMA5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB Footprint"; Value = "SMP-JHD4A-F"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=TXX1A_N New Net Name=TXX1B_N
+Added Pin To Net: NetName=AD1_LOC_GND_E Pin=T3-2
+Added Pin To Net: NetName=AD1_LOC_GND_E Pin=T3-5
+Added Pin To Net: NetName=AD1_LOC_GND_E Pin=XS3-2
+Added Pin To Net: NetName=AD1_LOC_GND_E Pin=XS3-3
+Added Pin To Net: NetName=AD1_LOC_GND_E Pin=XS3-4
+Added Pin To Net: NetName=AD1_LOC_GND_E Pin=XS3-5
+Added Net: Name=AD1_LOC_GND_E
+Added Pin To Net: NetName=AD1_LOC_GND_F Pin=T4-2
+Added Pin To Net: NetName=AD1_LOC_GND_F Pin=T4-5
+Added Pin To Net: NetName=AD1_LOC_GND_F Pin=XS4-2
+Added Pin To Net: NetName=AD1_LOC_GND_F Pin=XS4-3
+Added Pin To Net: NetName=AD1_LOC_GND_F Pin=XS4-4
+Added Pin To Net: NetName=AD1_LOC_GND_F Pin=XS4-5
+Added Net: Name=AD1_LOC_GND_F
+Added Pin To Net: NetName=AD1_LOC_GND_H Pin=T7-2
+Added Pin To Net: NetName=AD1_LOC_GND_H Pin=T7-5
+Added Pin To Net: NetName=AD1_LOC_GND_H Pin=XS8-2
+Added Pin To Net: NetName=AD1_LOC_GND_H Pin=XS8-3
+Added Pin To Net: NetName=AD1_LOC_GND_H Pin=XS8-4
+Added Pin To Net: NetName=AD1_LOC_GND_H Pin=XS8-5
+Added Net: Name=AD1_LOC_GND_H
+Added Pin To Net: NetName=AD1_LOC_GND_J Pin=T8-2
+Added Pin To Net: NetName=AD1_LOC_GND_J Pin=T8-5
+Added Pin To Net: NetName=AD1_LOC_GND_J Pin=XS9-2
+Added Pin To Net: NetName=AD1_LOC_GND_J Pin=XS9-3
+Added Pin To Net: NetName=AD1_LOC_GND_J Pin=XS9-4
+Added Pin To Net: NetName=AD1_LOC_GND_J Pin=XS9-5
+Added Net: Name=AD1_LOC_GND_J
+Added Pin To Net: NetName=NetC282_1 Pin=XS8-1
+Added Net: Name=NetC282_1
+Added Pin To Net: NetName=NetC282_2 Pin=T7-1
+Added Net: Name=NetC282_2
+Added Pin To Net: NetName=NetC285_1 Pin=XS9-1
+Added Net: Name=NetC285_1
+Added Pin To Net: NetName=NetC285_2 Pin=T8-1
+Added Net: Name=NetC285_2
+Added Pin To Net: NetName=TTXX1A_N Pin=T5-4
+Added Pin To Net: NetName=TTXX1A_N Pin=T7-3
+Added Net: Name=TTXX1A_N
+Added Pin To Net: NetName=TTXX1A_P Pin=T5-3
+Added Pin To Net: NetName=TTXX1A_P Pin=T7-4
+Added Net: Name=TTXX1A_P
+Added Pin To Net: NetName=TTXX2A_N Pin=T6-4
+Added Pin To Net: NetName=TTXX2A_N Pin=T8-3
+Added Net: Name=TTXX2A_N
+Added Pin To Net: NetName=TTXX2A_P Pin=T6-3
+Added Pin To Net: NetName=TTXX2A_P Pin=T8-4
+Added Net: Name=TTXX2A_P
+Added Pin To Net: NetName=TXX1A_N Pin=U2-M8
+Added Net: Name=TXX1A_N
+Added Pin To Net: NetName=TXX1A_P Pin=U2-M7
+Added Net: Name=TXX1A_P
+Added Pin To Net: NetName=TXX2A_N Pin=U2-A7
+Added Net: Name=TXX2A_N
+Added Pin To Net: NetName=TXX2A_P Pin=U2-A8
+Added Net: Name=TXX2A_P
+Added Differential Pair: Name=TTXX1A
+Added Differential Pair: Name=TTXX2A
+Added Differential Pair: Name=TXX1A
+Added Differential Pair: Name=TXX2A
+Added Member To Class: ClassName=AD9363_2 Member=Component T7 NCS2-33+
+Added Member To Class: ClassName=AD9363_2 Member=Component T8 NCS2-33+
+Added Member To Class: ClassName=AD9363_2 Member=Component XS8 SMP-JHD4A-F
+Added Member To Class: ClassName=AD9363_2 Member=Component XS9 SMP-JHD4A-F

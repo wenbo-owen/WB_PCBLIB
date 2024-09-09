@@ -1,0 +1,50 @@
+PCB Library : 6LT400-5-1-1PCBb.PcbLib
+Date        : 2024/5/3
+Time        : 12:58:26
+
+
+
+Component Count : 39
+
+Component Name
+-----------------------------------------------
+
+0603
+0805
+A
+B
+BGA576-TS201
+C
+c_2
+C6XJTAG14
+CPCI_J1/J4
+CPCI_J2/J5
+CPCI_J3
+CRYSTAL
+D
+D016
+DIP8
+FBGA672
+FPQF176
+GD60
+IDC10
+IDT3805
+L0.52
+L1.25
+place-han_zi_z
+PLCC28
+RESET
+SIP2
+SIP3
+SIP12
+SLVS240B
+SMDRES
+SO-14
+SO20W
+SOIC16
+SSO48
+TQFP144Z
+TSOP-48
+W
+W - duplicate
+W020
